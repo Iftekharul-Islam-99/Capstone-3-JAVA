@@ -1,0 +1,6 @@
+Project name, Project No., Address, ERF No., Building type, Fee, Paid to date, Deadline, Completion state, Completion date, Customer, Contractor, Architect.
+New haven, a0189, 23 plum garden, 845, Apartment, 1000, 900, 25/10/2023, Yes, 24/10/2020, Finlay Jonson, Dream place, Tedd Rodd.
+Summerville, b2915, 67 new bank road, 694, Store, 3000, 1300, 01/01/2027, Yes, 23/12/2021, Fiona Hudson, Road Ahead, Jenifer Lang.
+Dober, c2901, 11 james hall, 960, House, 2000, 2000, 11/12/2050, No, Shane Ramsey, Hammer Head, Logan Shaw.
+Utopia, a2154, 12 mcdonald road, 540, Apartment, 1000, 100, 12/12/2000, No, Mac Pasley, Road Ahead, Jenifer Lang.
+Eureca, d2598, 13 helen street, 680, Store, 3000, 2000, 11/12/2023, No, Shane Ramsey, Hammer Head, Matt Dameon.

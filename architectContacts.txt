@@ -1,0 +1,6 @@
+Name, Telephone No., Email, Address.
+Tedd Rodd, 07999999999, rodd@domain.com, 11 himrow street.
+Jenifer Lang, 07888888888, lang@domain.com, 13 summer road.
+Logan Shaw, 07777777777, shaw@domain.com, 14 marrow bank.
+Santo Conner, 07666666666, conner@domain.com, 12 hariott street.
+Matt Dameon, 07555555555, dameon@domain.com, 121 hall mark garden.
