@@ -76,8 +76,8 @@ When a project is chosen a new menu is generated with the following options:
 User can either enter the full project name or the full project ID.
 If a matching project is selected, then the **update project** menu is generated.
 
-__For each menu a character, character combination or numbers are assigned for the corresponding option. Users are just required to enter the correct character,
-character combination or number to select the option.__
+_For each menu a character, character combination or numbers are assigned for the corresponding option. Users are just required to enter the correct character,
+character combination or number to select the option._
 
 ## Use
 
@@ -87,7 +87,7 @@ it can easily be updated and modified, and new methods can easily be added to mo
 
 ## Instruction
 
-Download the *__Task 24__* folder and open the folder as a project in an ide of choice and run the code.
+Download the all the files and open all the *__.java__* files in the *__bin__* folder in an ide of choice and run the code.
 
 ## Contributors
 
